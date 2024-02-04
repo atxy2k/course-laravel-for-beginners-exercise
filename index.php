@@ -7,7 +7,7 @@
   <meta name="description" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!--====== Title ======-->
-  <title>Business | Bootstrap 5 Business Template</title>
+  <title>Curso Laravel for beginners</title>
   <!--====== Favicon Icon ======-->
   <link rel="shortcut icon" href="<?= '/template/assets/images/favicon.svg' ?>" type="image/svg" />
   <!--====== Bootstrap css ======-->
